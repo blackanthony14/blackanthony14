@@ -10,7 +10,7 @@ Skills: JS / Java/ Dart / HTML / CSS / Python
 - 🌱 I’m currently learning Php, Dart, React and also finishig a course of JS 
 - 👯 I’m looking to collaborate on App development and web development. 
 - 🤔 I’m looking for help with Experience 
-- 💬 Ask me about Anything, If I dont I dont know it be sure Ill learn only to explain it. 
+- 💬 Ask me about Anything, If I dont know it be sure Ill learn only to explain it. 
 - 📫 How to reach me: anthony.duffian@gmail.com 
 - ⚡ Fun fact: I dont like front-end but teachers says that im good at it. 
 
