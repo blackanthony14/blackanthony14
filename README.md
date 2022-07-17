@@ -4,8 +4,8 @@
 
 I like sports, music, movies and programming.
 
-Skills: JS / Java/ Dart / HTML / CSS / Python
-// Flask, Schema, Node.js, Prisma.
+Skills: JS / Java/ Dart / HTML / CSS / Python/ React
+// Flask, Schema, Node.js, Prisma,Express.Js, Axios.
 // Android Studio, Neatbeans, PyCharm, VSC.
 
 - 🔭 I’m currently working on Nothnig, I want to gain experience. 
