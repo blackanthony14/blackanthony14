@@ -4,7 +4,9 @@
 
 I like sports, music, movies and programming.
 
-Skills: JS / Java/ Dart / HTML / CSS / Python/ React
+You can see some of my proyects in my [codePen](codepen.io/blackanthony14) or in my [replit](replit.com/@blackanthony14)
+
+Skills: JS / Java/ Dart / HTML / CSS / Python/ React / TypeScript
 // Flask, Schema, Node.js, Prisma,Express.Js, Axios.
 // Android Studio, Neatbeans, PyCharm, VSC.
 
