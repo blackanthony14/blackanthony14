@@ -46,7 +46,7 @@ You can check out some of my projects on my [CodePen](https://codepen.io/blackan
 - 📫 You can reach me at anthony.duffian@gmail.com. 
 - ⚡ Fun fact: I may not be a fan of front-end development, but my teachers say I'm good at it.
 
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackanthony14&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackanthony14&hide_progress=true)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/blackanthony14)
