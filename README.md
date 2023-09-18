@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Anthony Duffis Newball
 #### I'm a Junior Full-Stack Developer
 
-![Anime Image](https://anime.goodfon.com/download/net-igry-net-zhizni-no-game-no-life-anime/1366x768/)
 
 I have a passion for sports, music, movies, and programming.
 
